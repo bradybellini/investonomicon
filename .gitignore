@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# temp stuff
+temp/*
+.vs/*
